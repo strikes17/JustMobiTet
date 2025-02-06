@@ -1,0 +1,111 @@
+{
+  "category": "test",
+  "localizations": {
+    "key_pairs": [
+      {
+        "key": "tower_missed",
+        "localized_pairs": [
+          {
+            "locale": "ru",
+            "value": "Упс, вы поставили мимо башни!"
+          },
+          {
+            "locale": "en",
+            "value": "Oops, you missed the tower!"
+          }
+        ]
+      },
+      {
+        "key": "shape_placed",
+        "localized_pairs": [
+          {
+            "locale": "ru",
+            "value": "Вы правильно поставили кубик!"
+          },
+          {
+            "locale": "en",
+            "value": "You placed the cube correctly!"
+          }
+        ]
+      },
+      {
+        "key": "shape_placed",
+        "localized_pairs": [
+          {
+            "locale": "ru",
+            "value": "Вы правильно поставили кубик!"
+          },
+          {
+            "locale": "en",
+            "value": "You placed the cube correctly!"
+          }
+        ]
+      },
+      {
+        "key": "shape_dropped_hole",
+        "localized_pairs": [
+          {
+            "locale": "ru",
+            "value": "Вы выбросили кубик в дырку!"
+          },
+          {
+            "locale": "en",
+            "value": "You've thrown a cube into a hole!"
+          }
+        ]
+      },
+      {
+        "key": "shape_placed_oob",
+        "localized_pairs": [
+          {
+            "locale": "ru",
+            "value": "Ой! Туда ставить нельзя!"
+          },
+          {
+            "locale": "en",
+            "value": "Ouch! You can't put it there!"
+          }
+        ]
+      },
+      {
+        "key": "shape_placed_too_high",
+        "localized_pairs": [
+          {
+            "locale": "ru",
+            "value": "Ой! Это слишком высоко для меня!"
+          },
+          {
+            "locale": "en",
+            "value": "Ouch! It's too high for me!"
+          }
+        ]
+      },
+      {
+        "key": "shape_placed_oob",
+        "localized_pairs": [
+          {
+            "locale": "ru",
+            "value": "Ой! Туда ставить нельзя!"
+          },
+          {
+            "locale": "en",
+            "value": "Ouch! You can't put it there!"
+          }
+        ]
+      },
+      {
+        "key": "shape_placed_lower",
+        "localized_pairs": [
+          {
+            "locale": "ru",
+            "value": "Вам нужно поставить кубик выше башни!"
+          },
+          {
+            "locale": "en",
+            "value": "You need to put the cube higher than the tower!"
+          }
+        ]
+      }
+    ]
+  }
+}
